@@ -8,8 +8,4 @@ I make a user directory module where you can add, update and delete users. I giv
 
 
 
-![Capture](https://user-images.githubusercontent.com/86945412/135523760-3f8a7b3a-a2a9-4738-9f99-284788186e71.PNG)
-
-
-
 ![Capture](https://user-images.githubusercontent.com/86945412/135523880-8765fc3e-5073-4574-a548-a3bcda4e1032.PNG)
